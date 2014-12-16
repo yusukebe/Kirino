@@ -1,0 +1,6 @@
+name = "Kirino"
+# badges = ["travis"]
+authority="cpan:YUSUKEBE"
+
+module_maker="ModuleBuildTiny"
+

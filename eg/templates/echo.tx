@@ -1,0 +1,12 @@
+<div style="text-align:center">
+  <p><b>こんにちは！</b></p>
+
+  <p><: $message :></p>
+
+  <p>
+    <form action="/echo" method="get">
+      <input type="text" name="message" />
+      <input type="submit" value="送信" />
+    </form>
+  </p>
+</div>
